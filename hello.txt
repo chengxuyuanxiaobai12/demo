@@ -8,3 +8,4 @@ hello git 7777
 hello git master test
 hello git hot-fix test  
 13213155使用ssh进行拉取
+使用ssh进行push
